@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=220&section=header&text=THE%20BACKEND%20GARAGE&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Bishal%20Bhusan%20Sarma%20%7C%20Build.%20Ride.%20Refine.&descAlignY=57&descSize=18&animation=fadeIn" alt="The Backend Garage - Bishal Bhusan Sarma" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=220&section=header&text=Bishal%20Bhusan%20Sarma&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20FastAPI%20%7C%20Python&descAlignY=57&descSize=18&animation=fadeIn" alt="Bishal Bhusan Sarma | Backend Developer | FastAPI | Python" width="100%" />
 
   <a href="https://github.com/BishalBhusanSarma">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+%7C+FastAPI+%7C+PostgreSQL+%7C+WebSockets;Clean+APIs.+Secure+auth.+Real-time+experiences.;Precision+in+code.+Freedom+on+two+wheels." alt="Python, FastAPI, PostgreSQL, WebSockets" />
