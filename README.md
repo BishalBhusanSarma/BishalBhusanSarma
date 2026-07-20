@@ -76,8 +76,12 @@ developer = {
 ## GitHub at a glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BishalBhusanSarma&show_icons=true&hide_border=true&title_color=2563eb&icon_color=06b6d4&text_color=cbd5e1&bg_color=0f172a" alt="Bishal's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=BishalBhusanSarma&hide_border=true&background=0F172A&ring=06B6D4&fire=F59E0B&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" alt="Bishal's contribution streak" />
+  <a href="https://github.com/BishalBhusanSarma">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BishalBhusanSarma&amp;theme=github_dark" alt="Bishal's GitHub statistics" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.vercel.app?user=BishalBhusanSarma&amp;theme=github-dark-blue&amp;hide_border=true" alt="Bishal's contribution streak" />
+  </a>
 </div>
 
 <div align="center">
