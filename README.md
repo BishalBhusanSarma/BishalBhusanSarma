@@ -1,79 +1,80 @@
 <!--
-  To make this appear on your GitHub profile, create a PUBLIC repository named
+  GitHub Profile README for BishalBhusanSarma.
+  To display it on your profile, put this README in a PUBLIC repository named
   exactly: BishalBhusanSarma
-  Then replace its README.md with this file.
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Bishal%20Bhusan%20Sarma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Build.%20Ride.%20Learn.%20Repeat.&descAlignY=58&descSize=18&animation=fadeIn" alt="Bishal Bhusan Sarma" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=220&section=header&text=THE%20BACKEND%20GARAGE&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Bishal%20Bhusan%20Sarma%20%7C%20Build.%20Ride.%20Refine.&descAlignY=57&descSize=18&animation=fadeIn" alt="The Backend Garage - Bishal Bhusan Sarma" width="100%" />
 
   <a href="https://github.com/BishalBhusanSarma">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+%7C+FastAPI+%7C+PostgreSQL;APIs%2C+authentication%2C+and+real-time+features;From+idea+to+API%2C+one+clean+commit+at+a+time." alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+%7C+FastAPI+%7C+PostgreSQL+%7C+WebSockets;Clean+APIs.+Secure+auth.+Real-time+experiences.;Precision+in+code.+Freedom+on+two+wheels." alt="Python, FastAPI, PostgreSQL, WebSockets" />
   </a>
 
   <p>
-    <a href="https://github.com/BishalBhusanSarma?tab=followers"><img src="https://img.shields.io/github/followers/BishalBhusanSarma?label=Follow&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub followers" /></a>
-    <a href="https://github.com/BishalBhusanSarma?tab=repositories"><img src="https://img.shields.io/badge/View%20my%20work-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+    <a href="https://www.linkedin.com/in/bishal-bhusan-sarma"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Bishal on LinkedIn" /></a>
+    <a href="mailto:bishal.bsarma@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bishal" /></a>
+    <a href="https://github.com/BishalBhusanSarma?tab=followers"><img src="https://img.shields.io/github/followers/BishalBhusanSarma?label=Follow&style=for-the-badge&color=F59E0B&labelColor=080B12" alt="GitHub followers" /></a>
   </p>
 
 </div>
 
-## Hello, I’m Bishal 👋
+## Welcome to my garage 👋
 
-I’m a developer focused on building practical, dependable applications. I enjoy turning an idea into a working product—especially backend services, secure authentication flows, databases, AI-powered utilities, and real-time experiences.
+I am **Bishal**, a backend-focused developer who enjoys building the systems that keep products running smoothly. I work with APIs, authentication, databases, and real-time communication - the parts under the hood that make an application dependable.
 
-Away from the keyboard, I’m into motorcycles. The same mindset carries over to code: understand the machine, keep improving the fundamentals, and enjoy the ride.
+Motorcycles are a big part of who I am. Good engineering is the same everywhere: understand the machine, respect the fundamentals, tune the details, then enjoy the ride.
 
 ```python
-developer = {
-    "building": ["REST APIs", "real-time chat", "AI video summaries"],
-    "working_with": ["Python", "FastAPI", "PostgreSQL", "WebSockets"],
-    "mindset": "Learn the fundamentals. Ship the feature. Improve the next lap.",
-    "open_to": "Learning, collaboration, and meaningful projects",
+garage = {
+    "engine": ["Python", "FastAPI", "PostgreSQL"],
+    "specialty": ["REST APIs", "JWT authentication", "WebSockets"],
+    "currently_tuning": "Backend architecture and API design",
+    "fuel": "Curiosity, consistency, and a good ride",
 }
 ```
 
-## Pinned projects
+## Projects on the lift
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>💬 Real-time Chat API</h3>
-      <p>A FastAPI backend with JWT authentication, Argon2 password hashing, PostgreSQL message history, and WebSocket-based delivery.</p>
-      <a href="https://github.com/BishalBhusanSarma/Realtime-Chat-API-FastAPI-Backend-">Explore the project →</a>
+      <p>FastAPI chat backend with JWT authentication, Argon2 password hashing, PostgreSQL conversation history, and WebSocket message delivery.</p>
+      <a href="https://github.com/BishalBhusanSarma/Realtime-Chat-API-FastAPI-Backend-">Inspect the build →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>✅ Task API</h3>
-      <p>A complete CRUD API for managing tasks—an exercise in designing useful endpoints and dependable application flows.</p>
-      <a href="https://github.com/BishalBhusanSarma/task_api">Explore the project →</a>
+      <p>A full CRUD task-management API designed around practical endpoints and dependable application flows.</p>
+      <a href="https://github.com/BishalBhusanSarma/task_api">Inspect the build →</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📝 FastAPI Notes API</h3>
-      <p>A notes-management API built with FastAPI, focused on clear backend patterns and practical API development.</p>
-      <a href="https://github.com/BishalBhusanSarma/FastAPI-NotesAPI">Explore the project →</a>
+      <p>A notes-management API that puts clean backend patterns and practical API development into action.</p>
+      <a href="https://github.com/BishalBhusanSarma/FastAPI-NotesAPI">Inspect the build →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎬 AI Video Summarizer</h3>
-      <p>An AI-focused project exploring how video content can be transformed into concise, useful summaries.</p>
-      <a href="https://github.com/BishalBhusanSarma/AI_video_summ">Explore the project →</a>
+      <p>An AI-focused project that explores transforming video content into concise, useful summaries.</p>
+      <a href="https://github.com/BishalBhusanSarma/AI_video_summ">Inspect the build →</a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/BishalBhusanSarma?tab=repositories"><b>Browse every project in my garage →</b></a>
+  <a href="https://github.com/BishalBhusanSarma?tab=repositories"><img src="https://img.shields.io/badge/Open%20the%20garage-View%20all%20projects-0EA5E9?style=for-the-badge&labelColor=080B12" alt="View all GitHub projects" /></a>
 </div>
 
-## Toolbox
+## Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode&theme=dark" alt="Python, FastAPI, PostgreSQL, Git, GitHub, and VS Code" />
 </div>
 
-## GitHub at a glance
+## Telemetry
 
 <div align="center">
   <a href="https://github.com/BishalBhusanSarma">
@@ -84,23 +85,28 @@ developer = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BishalBhusanSarma&bg_color=0f172a&color=cbd5e1&line=2563eb&point=06b6d4&area=true&hide_border=true" alt="Bishal's contribution graph" width="96%" />
-</div>
-
-## Let’s connect
-
-I’m happy to connect with developers, learn from feedback, and collaborate on thoughtful projects.
+## Contribution trail
 
 <div align="center">
-  <a href="https://github.com/BishalBhusanSarma"><img src="https://img.shields.io/badge/GitHub-BishalBhusanSarma-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add your LinkedIn URL here when ready:
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BishalBhusanSarma/BishalBhusanSarma/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BishalBhusanSarma/BishalBhusanSarma/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/BishalBhusanSarma/BishalBhusanSarma/output/github-contribution-grid-snake-dark.svg" alt="Animated snake traveling through Bishal's GitHub contributions" width="96%" />
+  </picture>
+</div>
+
+## Let’s build something good
+
+If you want to discuss backend development, swap project ideas, or simply talk motorcycles, I would be glad to connect.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bishal-bhusan-sarma"><img src="https://img.shields.io/badge/LinkedIn-Bishal%20Bhusan%20Sarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bishal Bhusan Sarma on LinkedIn" /></a>
+  <a href="mailto:bishal.bsarma@gmail.com"><img src="https://img.shields.io/badge/Email-bishal.bsarma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bishal Bhusan Sarma" /></a>
 </div>
 
 <div align="center">
-  <sub>“Every good build starts with curiosity—and gets better with every mile.”</sub>
+  <br />
+  <sub>Build with intent. Refine with patience. Enjoy every mile.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=120&section=footer" alt="Backend Garage footer" width="100%" />
