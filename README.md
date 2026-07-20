@@ -10,7 +10,7 @@ BishalBhusanSarma
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=220&section=header&text=Bishal%20Bhusan%20Sarma&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20PostgreSQL&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/BishalBhusanSarma">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Building+Secure+REST+APIs;Developing+Real-Time+Applications;Python+•+FastAPI+•+PostgreSQL+•+WebSockets;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Building+Secure+REST+APIs;Developing+Real-Time+Applications;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+WebSockets;Always+Learning+Something+New" />
 </a>
 
 <br>
