@@ -85,6 +85,15 @@ class BackendDeveloper:
 
 ---
 
+# 🏆 Highlights
+
+- 💬 Built a Real-Time Chat Backend using FastAPI & WebSockets
+- 🔐 Implemented JWT Authentication with Argon2 Password Hashing
+- 🗄 Designed REST APIs using PostgreSQL
+- 💼 QA Intern at HDFC Tech & Digital
+- 📚 Currently learning Backend Architecture & System Design
+
+
 # 🚀 Featured Projects
 
 <table>
@@ -92,6 +101,8 @@ class BackendDeveloper:
 <tr>
 
 <td width="50%" valign="top">
+
+---
 
 ## 💬 Real-Time Chat Backend
 
