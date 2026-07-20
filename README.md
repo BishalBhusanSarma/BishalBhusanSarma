@@ -6,10 +6,10 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Bishal%20Bhusan%20Sarma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20reliable%20backend%20systems%2C%20one%20feature%20at%20a%20time.&descAlignY=58&descSize=17&animation=fadeIn" alt="Bishal Bhusan Sarma" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Bishal%20Bhusan%20Sarma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Build.%20Ride.%20Learn.%20Repeat.&descAlignY=58&descSize=18&animation=fadeIn" alt="Bishal Bhusan Sarma" width="100%" />
 
   <a href="https://github.com/BishalBhusanSarma">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+%7C+FastAPI+%7C+PostgreSQL;APIs%2C+authentication%2C+and+real-time+features;Always+learning%2C+always+building." alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+%7C+FastAPI+%7C+PostgreSQL;APIs%2C+authentication%2C+and+real-time+features;From+idea+to+API%2C+one+clean+commit+at+a+time." alt="Typing introduction" />
   </a>
 
   <p>
@@ -21,18 +21,20 @@
 
 ## Hello, I’m Bishal 👋
 
-I’m a developer focused on building practical, dependable applications. I enjoy turning an idea into a working product—especially backend services, secure authentication flows, databases, and real-time experiences.
+I’m a developer focused on building practical, dependable applications. I enjoy turning an idea into a working product—especially backend services, secure authentication flows, databases, AI-powered utilities, and real-time experiences.
+
+Away from the keyboard, I’m into motorcycles. The same mindset carries over to code: understand the machine, keep improving the fundamentals, and enjoy the ride.
 
 ```python
 developer = {
-    "currently_building": "Real-time chat applications",
+    "building": ["REST APIs", "real-time chat", "AI video summaries"],
     "working_with": ["Python", "FastAPI", "PostgreSQL", "WebSockets"],
-    "learning": "Better backend architecture and API design",
+    "mindset": "Learn the fundamentals. Ship the feature. Improve the next lap.",
     "open_to": "Learning, collaboration, and meaningful projects",
 }
 ```
 
-## What I’m building
+## Pinned projects
 
 <table>
   <tr>
@@ -42,12 +44,28 @@ developer = {
       <a href="https://github.com/BishalBhusanSarma/Realtime-Chat-API-FastAPI-Backend-">Explore the project →</a>
     </td>
     <td width="50%">
-      <h3>🎯 Current focus</h3>
-      <p>Writing cleaner backend code, designing useful APIs, and shipping projects that solve real problems.</p>
-      <a href="https://github.com/BishalBhusanSarma?tab=repositories">See all repositories →</a>
+      <h3>✅ Task API</h3>
+      <p>A complete CRUD API for managing tasks—an exercise in designing useful endpoints and dependable application flows.</p>
+      <a href="https://github.com/BishalBhusanSarma/task_api">Explore the project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📝 FastAPI Notes API</h3>
+      <p>A notes-management API built with FastAPI, focused on clear backend patterns and practical API development.</p>
+      <a href="https://github.com/BishalBhusanSarma/FastAPI-NotesAPI">Explore the project →</a>
+    </td>
+    <td width="50%">
+      <h3>🎬 AI Video Summarizer</h3>
+      <p>An AI-focused project exploring how video content can be transformed into concise, useful summaries.</p>
+      <a href="https://github.com/BishalBhusanSarma/AI_video_summ">Explore the project →</a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/BishalBhusanSarma?tab=repositories"><b>Browse every project in my garage →</b></a>
+</div>
 
 ## Toolbox
 
@@ -78,7 +96,7 @@ I’m happy to connect with developers, learn from feedback, and collaborate on 
 </div>
 
 <div align="center">
-  <sub>“Small, consistent progress compounds into great work.”</sub>
+  <sub>“Every good build starts with curiosity—and gets better with every mile.”</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer" alt="Footer wave" width="100%" />
