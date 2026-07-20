@@ -133,7 +133,8 @@ A RESTful FastAPI application featuring:
 
 A practical backend project demonstrating:
 
-- Authentication
+- JWT Authentication
+- Argon2 Password Hashing
 - Note Management
 - RESTful APIs
 - FastAPI Best Practices
@@ -181,16 +182,6 @@ An AI application that converts long-form video content into concise summaries u
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BishalBhusanSarma&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
 </div>
 
