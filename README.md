@@ -1,166 +1,79 @@
 
-<!--
-GitHub Profile README
-Repository name must be exactly:
-BishalBhusanSarma
--->
+<!-- GitHub Profile README -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=220&section=header&text=Bishal%20Bhusan%20Sarma&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20PostgreSQL&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/BishalBhusanSarma">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Building+Secure+REST+APIs;Developing+Real-Time+Applications;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+WebSockets;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;FastAPI+•+PostgreSQL+•+Python;Building+Secure+REST+APIs;Real-Time+Applications+with+WebSockets;Always+Learning,+Always+Building"/>
 </a>
 
-<br>
+### Backend Developer specializing in FastAPI, PostgreSQL, JWT Authentication, and Real-Time Applications.
 
-<a href="https://www.linkedin.com/in/bishal-bhusan-sarma">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bishal.bsarma@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/BishalBhusanSarma?tab=followers">
-<img src="https://img.shields.io/github/followers/BishalBhusanSarma?style=for-the-badge&label=Followers&color=F59E0B&labelColor=080B12" />
-</a>
+<a href="https://www.linkedin.com/in/bishal-bhusan-sarma"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bishal.bsarma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/BishalBhusanSarma?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_All-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/BishalBhusanSarma?tab=followers"><img src="https://img.shields.io/github/followers/BishalBhusanSarma?style=for-the-badge&label=Followers&color=F59E0B&labelColor=080B12"/></a>
 
 </div>
 
 ---
 
-# 🙏 Greetings! I'm Bishal Bhusan Sarma
+# 👋 Greetings! I'm Bishal Bhusan Sarma
 
-I'm a **Backend Developer** passionate about building reliable APIs, secure authentication systems, and real-time applications.
-
-My primary stack is **Python**, **FastAPI**, and **PostgreSQL**, and I enjoy learning how scalable backend systems are designed and built.
-
-Outside programming you'll usually find me riding motorcycles, exploring new technologies, or improving my backend engineering skills one project at a time.
+I'm a backend developer passionate about building secure APIs, authentication systems and scalable backend services with Python and FastAPI.
 
 ---
 
 ## 💻 About Me
 
 ```python
-class BackendDeveloper:
+class BishalBhusanSarma:
 
-    def __init__(self):
-        self.name = "Bishal Bhusan Sarma"
-        self.role = "Backend Developer"
+    role = "Backend Developer"
 
-        self.languages = [
-            "Python"
-        ]
+    tech_stack = {
+        "Language": ["Python"],
+        "Backend": ["FastAPI", "REST APIs", "WebSockets"],
+        "Database": ["PostgreSQL"],
+        "Tools": ["Git", "GitHub", "VS Code", "Postman"]
+    }
 
-        self.backend = [
-            "FastAPI",
-            "REST APIs",
-            "WebSockets"
-        ]
+    currently_learning = [
+        "System Design",
+        "Backend Architecture",
+        "Scalable APIs"
+    ]
 
-        self.database = [
-            "PostgreSQL"
-        ]
-
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code"
-        ]
-
-    def current_focus(self):
-        return [
-            "Backend Architecture",
-            "JWT Authentication",
-            "WebSockets",
-            "API Design",
-            "System Design"
-        ]
-
-    def motto(self):
-        return "Build reliable systems."
+    motto = "Clean code. Secure APIs. Reliable systems."
 ```
+
+---
+
+# 🏆 Highlights
+
+- 💬 Built a Real-Time Chat Backend using FastAPI & WebSockets
+- 🔐 Implemented JWT Authentication with Argon2 Password Hashing
+- 🗄 Designed REST APIs using PostgreSQL
+- 🚀 Passionate about scalable backend architecture
+- 📚 Continuously learning System Design
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 💬 Real-Time Chat Backend
-
-Production-style backend built with **FastAPI** featuring:
-
-- JWT Authentication
-- Argon2 Password Hashing
-- PostgreSQL
-- WebSockets
-- Conversation History
-- Real-time Messaging
-
-🔗 https://github.com/BishalBhusanSarma/Realtime-Chat-API-FastAPI-Backend-
-
-</td>
-
-<td width="50%" valign="top">
-
-## ✅ Task Management API
-
-A RESTful FastAPI application featuring:
-
-- CRUD Operations
-- Clean API Design
-- Validation
-- Modular Architecture
-
-🔗 https://github.com/BishalBhusanSarma/task_api
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📝 Notes API
-
-A practical backend project demonstrating:
-
-- JWT Authentication
-- Argon2 Password Hashing
-- Note Management
-- RESTful APIs
-- FastAPI Best Practices
-
-🔗 https://github.com/BishalBhusanSarma/FastAPI-NotesAPI
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎬 AI Video Summarizer
-
-An AI application that converts long-form video content into concise summaries using modern NLP techniques.
-
-🔗 https://github.com/BishalBhusanSarma/AI_video_summ
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description |
+|---|---|
+| **💬 Real-Time Chat Backend** | JWT, WebSockets, PostgreSQL, Argon2, Conversation History.<br>🔗 https://github.com/BishalBhusanSarma/Realtime-Chat-API-FastAPI-Backend- |
+| **📝 Notes API** | JWT Authentication, FastAPI, PostgreSQL, Note Management.<br>🔗 https://github.com/BishalBhusanSarma/FastAPI-NotesAPI |
+| **✅ Task Management API** | CRUD APIs with modular FastAPI architecture.<br>🔗 https://github.com/BishalBhusanSarma/task_api |
+| **🎬 AI Video Summarizer** | NLP powered video summarization.<br>🔗 https://github.com/BishalBhusanSarma/AI_video_summ |
 
 <div align="center">
 
 <a href="https://github.com/BishalBhusanSarma?tab=repositories">
-<img src="https://img.shields.io/badge/View-All%20Repositories-0EA5E9?style=for-the-badge&labelColor=080B12"/>
+<img src="https://img.shields.io/badge/View_All_Repositories-0EA5E9?style=for-the-badge"/>
 </a>
 
 </div>
@@ -169,11 +82,11 @@ An AI application that converts long-form video content into concise summaries u
 
 # 🎯 Current Focus
 
-- Building scalable backend applications
-- Learning System Design
-- Mastering FastAPI
-- Real-time communication with WebSockets
-- Writing clean and maintainable APIs
+- Designing scalable backend architectures
+- Mastering FastAPI & PostgreSQL
+- Building secure authentication systems
+- Developing real-time applications with WebSockets
+- Learning System Design & Software Architecture
 
 ---
 
@@ -181,7 +94,7 @@ An AI application that converts long-form video content into concise summaries u
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode,postman&theme=dark"/>
 
 </div>
 
@@ -214,13 +127,9 @@ An AI application that converts long-form video content into concise summaries u
 <div align="center">
 
 <picture>
-
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BishalBhusanSarma/BishalBhusanSarma/output/github-contribution-grid-snake-dark.svg"/>
-
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BishalBhusanSarma/BishalBhusanSarma/output/github-contribution-grid-snake.svg"/>
-
 <img src="https://raw.githubusercontent.com/BishalBhusanSarma/BishalBhusanSarma/output/github-contribution-grid-snake-dark.svg"/>
-
 </picture>
 
 </div>
@@ -229,24 +138,11 @@ An AI application that converts long-form video content into concise summaries u
 
 # 🤝 Let's Connect
 
-I'm always interested in discussing:
-
-- Backend Development
-- FastAPI
-- Python
-- API Design
-- Open Source
-- System Design
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bishal-bhusan-sarma">
-<img src="https://img.shields.io/badge/LinkedIn-Bishal%20Bhusan%20Sarma-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bishal.bsarma@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/bishal-bhusan-sarma"><img src="https://img.shields.io/badge/LinkedIn-Bishal_Bhusan_Sarma-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:bishal.bsarma@gmail.com"><img src="https://img.shields.io/badge/Email-bishal.bsarma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/BishalBhusanSarma"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
@@ -254,12 +150,10 @@ I'm always interested in discussing:
 
 <div align="center">
 
-### Turning ideas into reliable backend systems.
+### Building secure, scalable backend systems one API at a time.
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile! ⭐**
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,45:0f2742,72:0ea5e9,100:f59e0b&height=120&section=footer"/>
-
-
