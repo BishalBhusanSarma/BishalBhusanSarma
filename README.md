@@ -19,8 +19,8 @@ BishalBhusanSarma
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:bishal.bsarma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bishal.bsarma@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/BishalBhusanSarma?tab=followers">
@@ -244,8 +244,8 @@ I'm always interested in discussing:
 <img src="https://img.shields.io/badge/LinkedIn-Bishal%20Bhusan%20Sarma-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:bishal.bsarma@gmail.com">
-<img src="https://img.shields.io/badge/Email-bishal.bsarma@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bishal.bsarma@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
