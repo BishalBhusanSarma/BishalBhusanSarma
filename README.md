@@ -116,6 +116,7 @@ Production-style backend built with **FastAPI** featuring:
 - Real-time Messaging
 
 🔗 https://github.com/BishalBhusanSarma/Realtime-Chat-API-FastAPI-Backend-
+🔗 https://chat-app-uul7.onrender.com/docs
 
 </td>
 
@@ -131,6 +132,7 @@ A RESTful FastAPI application featuring:
 - Modular Architecture
 
 🔗 https://github.com/BishalBhusanSarma/task_api
+🔗 https://taskapi-8crrkcufvulmf62gqesnst.streamlit.app/
 
 </td>
 
@@ -151,6 +153,7 @@ A practical backend project demonstrating:
 - FastAPI Best Practices
 
 🔗 https://github.com/BishalBhusanSarma/FastAPI-NotesAPI
+🔗https://fastapi-notesapi.onrender.com/docs
 
 </td>
 
