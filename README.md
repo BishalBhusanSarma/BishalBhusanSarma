@@ -153,7 +153,7 @@ A practical backend project demonstrating:
 - FastAPI Best Practices
 
 🔗 https://github.com/BishalBhusanSarma/FastAPI-NotesAPI
-🔗https://fastapi-notesapi.onrender.com/docs
+🔗 https://fastapi-notesapi.onrender.com/docs
 
 </td>
 
@@ -170,7 +170,7 @@ A practical backend project for managing shared group expenses with:
 - Shared Expense Tracking
 - Member-wise Expense Summaries
 
-🔗 https://github.com/BishalBhusanSarma/<YOUR-REPO-NAME>
+🔗 https://github.com/BishalBhusanSarma/Group_Finance-_Tracker
 
 </td>
 
