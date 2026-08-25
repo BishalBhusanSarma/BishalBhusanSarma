@@ -159,11 +159,18 @@ A practical backend project demonstrating:
 
 <td width="50%" valign="top">
 
-## 🎬 AI Video Summarizer
+## 💰 Group Finance Tracker
 
-An AI application that converts long-form video content into concise summaries using modern NLP techniques.
+A practical backend project for managing shared group expenses with:
 
-🔗 https://github.com/BishalBhusanSarma/AI_video_summ
+- JWT Authentication
+- PostgreSQL & SQLAlchemy
+- Alembic Migrations
+- Group Management
+- Shared Expense Tracking
+- Member-wise Expense Summaries
+
+🔗 https://github.com/BishalBhusanSarma/<YOUR-REPO-NAME>
 
 </td>
 
